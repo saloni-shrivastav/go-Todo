@@ -1,4 +1,4 @@
-module github.com/saloni-shrivastav/gotodo-s
+module github.com/saloni-shrivastav/go-Todo
 
 go 1.16
 
